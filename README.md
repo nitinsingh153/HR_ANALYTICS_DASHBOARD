@@ -12,11 +12,11 @@ This project is a Power BI dashboard built to analyze employee data and understa
 💰 Average Salary
 📊 Attrition by:
 Age Group
-Education
-Salary Slab
-Job Role
-Years at Company
-Gender
+/Education
+/Salary Slab
+/Job Role
+/Years at Company
+/Gender
 
 🛠 Tools Used
 -Power BI Desktop
@@ -25,12 +25,9 @@ Gender
 /Data Visualization
 
 ✅ What I Learned
-
-Building HR dashboards in Power BI
-
-Designing metrics for attrition analysis
-
-Creating interactive reports for decision-making
+-Building HR dashboards in Power BI
+/Designing metrics for attrition analysis
+/Creating interactive reports for decision-making
 
 Nitin Singh
 Aspiring Data Analyst | Excel | SQL | Power BI
